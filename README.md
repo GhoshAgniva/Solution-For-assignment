@@ -60,4 +60,4 @@ print("Largest subsequence divisible by 5:", result)
 3. Input: `[5]` → Output: `[5]`
 
 ---
-This README provides a brief description of the problem, its solution, and usage instructions.
+
